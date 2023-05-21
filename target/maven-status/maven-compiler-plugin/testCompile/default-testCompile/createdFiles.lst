@@ -1,0 +1,15 @@
+com\TestNG\ParallelTesting.class
+com\TestNG\PriorityTest.class
+com\TestNG\TestNG_DependsOnMethod.class
+com\TestNG\Login.class
+com\TestNG\ReadExcelData.class
+com\TestNG\EnableTrueFalse.class
+com\TestNG\CrossBrowserTesting.class
+com\TestNG\DataProviderTest.class
+com\TestNG\TestNG_Annotation.class
+luma\usa\myRunnerTest\MyRunner.class
+luma\usa\stepDefinition\SmokeTestStep.class
+luma\usa\hooks\Hooks.class
+luma\usa\stepDefinition\FunctionalStepDefinition.class
+com\TestNG\TestNG_BasicAnnotation.class
+com\TestNG\InvocationCountTest.class

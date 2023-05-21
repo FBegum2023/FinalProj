@@ -1,0 +1,5 @@
+luma\usa\genericFunctions\CommonMethods.class
+luma\usa\genericFunctions\WaitHelper.class
+luma\usa\elementPage\PageFactoryElements.class
+luma\usa\listener\TestListener.class
+luma\usa\basepage\SuperClass.class

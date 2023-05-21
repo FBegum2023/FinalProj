@@ -1,0 +1,1163 @@
+2023-04-18 22:17:29,848 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:17:29,873 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2023-04-18 22:17:30,171 [main] INFO io.github.bonigarcia.wdm.online.Downloader - Downloading https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+2023-04-18 22:17:30,429 [main] INFO io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver_win32.zip
+2023-04-18 22:17:30,562 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:17:34,334 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:17:37,267 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:17:37,644 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:17:37,831 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:17:38,800 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:17:40,069 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:17:40,372 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:17:40,533 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:17:40,763 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:18:20,847 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:18:20,883 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:18:23,407 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:18:26,102 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:18:26,475 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:18:26,659 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:18:28,011 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:18:29,286 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:18:29,502 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:18:29,659 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:18:29,896 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:19:28,210 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:19:28,242 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:19:30,810 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:19:33,593 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:19:33,951 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:19:34,140 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:19:35,492 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:19:36,790 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:19:37,043 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:19:37,190 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:19:37,401 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:19:40,678 [main] INFO QA Lead - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-04-18 22:19:42,324 [main] INFO QA Lead - >>>>user able to add shipping information <<<< 
+2023-04-18 22:19:49,002 [main] INFO QA Lead - >>>>user able to select shipping method radial button and click on next button <<<< 
+2023-04-18 22:19:52,283 [main] INFO QA Lead - >>>>user able to click on next button <<<< 
+2023-04-18 22:19:54,323 [main] INFO QA Lead - >>>>user able to click on the place order button <<<< 
+2023-04-18 22:19:54,378 [main] INFO QA Lead - >>>>user able to verify the confirmation message<<<< 
+2023-04-18 22:23:26,665 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:23:26,695 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:23:29,261 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:23:32,248 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:23:32,591 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:23:32,779 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:23:33,853 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:23:35,328 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:23:35,566 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:23:35,713 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:23:35,936 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:23:39,497 [main] INFO QA Lead - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-04-18 22:23:41,350 [main] INFO QA Lead - >>>>user able to add shipping information <<<< 
+2023-04-18 22:23:48,040 [main] INFO QA Lead - >>>>user able to select shipping method radial button and click on next button <<<< 
+2023-04-18 22:23:51,495 [main] INFO QA Lead - >>>>user able to click on next button <<<< 
+2023-04-18 22:23:53,560 [main] INFO QA Lead - >>>>user able to click on the place order button <<<< 
+2023-04-18 22:23:53,618 [main] INFO QA Lead - >>>>user able to verify the confirmation message<<<< 
+2023-04-18 22:28:35,030 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:28:35,064 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:28:37,620 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:28:40,471 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:28:40,824 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:28:41,013 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:28:42,114 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:28:43,505 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:28:43,746 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:28:43,888 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:28:44,100 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:28:47,566 [main] INFO QA Lead - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-04-18 22:28:49,326 [main] INFO QA Lead - >>>>user able to add shipping information <<<< 
+2023-04-18 22:28:56,428 [main] INFO QA Lead - >>>>user able to select shipping method radial button and click on next button <<<< 
+2023-04-18 22:28:59,736 [main] INFO QA Lead - >>>>user able to click on next button <<<< 
+2023-04-18 22:28:59,975 [main] INFO QA Lead - >>>>user able to Select Billing And Shipping address same ChkBox <<<< 
+2023-04-18 22:29:01,969 [main] INFO QA Lead - >>>>user able to click on the place order button <<<< 
+2023-04-18 22:29:02,019 [main] INFO QA Lead - >>>>user able to verify the confirmation message<<<< 
+2023-04-18 22:40:12,189 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:40:12,225 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:40:14,766 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:40:17,679 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:40:18,031 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:40:18,220 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:40:19,205 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:40:20,460 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:40:20,723 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:40:20,879 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:40:21,105 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:40:56,219 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:40:56,245 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:40:58,840 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:41:01,880 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:41:02,243 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:41:02,432 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:41:03,497 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:41:04,923 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:41:05,193 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:41:05,335 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:41:05,530 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:41:09,016 [main] INFO QA Lead - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-04-18 22:41:10,876 [main] INFO QA Lead - >>>>user able to add shipping information <<<< 
+2023-04-18 22:41:18,913 [main] INFO QA Lead - >>>>user able to select shipping method radial button and click on next button <<<< 
+2023-04-18 22:41:22,334 [main] INFO QA Lead - >>>>user able to click on next button <<<< 
+2023-04-18 22:41:22,572 [main] INFO QA Lead - >>>>user able to Select Billing And Shipping address same ChkBox <<<< 
+2023-04-18 22:41:24,326 [main] INFO QA Lead - >>>>user able to click on the place order button <<<< 
+2023-04-18 22:41:24,387 [main] INFO QA Lead - >>>>user able to verify the confirmation message<<<< 
+2023-04-18 22:49:14,652 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:49:14,681 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:49:17,200 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:49:19,903 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:49:20,268 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:49:20,485 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:49:21,506 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:49:22,772 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:49:23,031 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:49:23,187 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:49:23,388 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:49:43,278 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:49:43,313 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:49:45,803 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:49:48,676 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:49:49,026 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:49:49,212 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:49:50,329 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:49:51,760 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:49:52,011 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:49:52,159 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:49:52,379 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:49:55,914 [main] INFO QA Lead - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-04-18 22:49:57,776 [main] INFO QA Lead - >>>>user able to add shipping information <<<< 
+2023-04-18 22:49:57,777 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:49:58,608 [main] INFO QA Lead - >>>>user able to Enter First Name<<<< 
+2023-04-18 22:49:59,167 [main] INFO QA Lead - >>>>user able to Enter Last Name<<<< 
+2023-04-18 22:49:59,376 [main] INFO QA Lead - >>>>user able to enter Company name<<<< 
+2023-04-18 22:49:59,543 [main] INFO QA Lead - >>>>user able to enter Address<<<< 
+2023-04-18 22:49:59,744 [main] INFO QA Lead - >>>>user able to select city<<<< 
+2023-04-18 22:49:59,903 [main] INFO QA Lead - >>>>user able to select state from dropdown<<<< 
+2023-04-18 22:50:00,885 [main] INFO QA Lead - >>>>user able to enter Zip Code <<<< 
+2023-04-18 22:50:01,036 [main] INFO QA Lead - >>>>user able to select country from dropdown<<<< 
+2023-04-18 22:50:05,238 [main] INFO QA Lead - >>>>user able to Enter Phone Number<<<< 
+2023-04-18 22:50:05,387 [main] INFO QA Lead - >>>>user able to click Ship Here Button<<<< 
+2023-04-18 22:50:05,577 [main] INFO QA Lead - >>>>user able to select shipping method radial button and click on next button <<<< 
+2023-04-18 22:50:08,906 [main] INFO QA Lead - >>>>user able to click on next button <<<< 
+2023-04-18 22:50:09,120 [main] INFO QA Lead - >>>>user able to Select Billing And Shipping address same ChkBox <<<< 
+2023-04-18 22:50:11,072 [main] INFO QA Lead - >>>>user able to click on the place order button <<<< 
+2023-04-18 22:50:11,131 [main] INFO QA Lead - >>>>user able to verify the confirmation message<<<< 
+2023-04-18 22:53:24,172 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:53:24,202 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:53:26,719 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:53:29,439 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:53:29,823 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:53:30,026 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:53:30,935 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:53:32,388 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:53:32,634 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:53:32,774 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:53:33,006 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:53:36,413 [main] INFO QA Lead - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-04-18 22:53:38,230 [main] INFO QA Lead - >>>>user able to add shipping information <<<< 
+2023-04-18 22:53:38,231 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:53:39,099 [main] INFO QA Lead - >>>>user able to Enter First Name<<<< 
+2023-04-18 22:53:39,596 [main] INFO QA Lead - >>>>user able to Enter Last Name<<<< 
+2023-04-18 22:53:39,823 [main] INFO QA Lead - >>>>user able to enter Company name<<<< 
+2023-04-18 22:53:39,994 [main] INFO QA Lead - >>>>user able to enter Address<<<< 
+2023-04-18 22:53:40,178 [main] INFO QA Lead - >>>>user able to select city<<<< 
+2023-04-18 22:53:40,347 [main] INFO QA Lead - >>>>user able to select state from dropdown<<<< 
+2023-04-18 22:53:41,342 [main] INFO QA Lead - >>>>user able to enter Zip Code <<<< 
+2023-04-18 22:53:41,500 [main] INFO QA Lead - >>>>user able to select country from dropdown<<<< 
+2023-04-18 22:53:45,807 [main] INFO QA Lead - >>>>user able to Enter Phone Number<<<< 
+2023-04-18 22:53:45,976 [main] INFO QA Lead - >>>>user able to click Ship Here Button<<<< 
+2023-04-18 22:53:46,168 [main] INFO QA Lead - >>>>user able to select shipping method radial button and click on next button <<<< 
+2023-04-18 22:53:49,313 [main] INFO QA Lead - >>>>user able to click on next button <<<< 
+2023-04-18 22:53:49,555 [main] INFO QA Lead - >>>>user able to Select Billing And Shipping address same ChkBox <<<< 
+2023-04-18 22:53:51,382 [main] INFO QA Lead - >>>>user able to click on the place order button <<<< 
+2023-04-18 22:53:51,440 [main] INFO QA Lead - >>>>user able to verify the confirmation message<<<< 
+2023-04-18 22:55:42,638 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:55:42,680 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:55:45,235 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:55:48,130 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:55:48,484 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:55:48,672 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:55:49,604 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:55:50,878 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:55:51,127 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:55:51,278 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:55:51,496 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:56:09,887 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:56:09,916 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:56:12,437 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:56:15,379 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:56:15,761 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:56:15,949 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:56:16,992 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:56:18,279 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:56:18,532 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:56:18,693 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:56:18,899 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:56:38,403 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:56:38,439 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:56:41,012 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:56:44,691 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:56:45,069 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:56:45,273 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:56:46,368 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:56:47,710 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:56:47,962 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:56:48,104 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:56:48,323 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:56:51,715 [main] INFO QA Lead - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-04-18 22:56:53,815 [main] INFO QA Lead - >>>>user able to add shipping information <<<< 
+2023-04-18 22:56:53,815 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:56:54,990 [main] INFO QA Lead - >>>>user able to Enter First Name<<<< 
+2023-04-18 22:56:55,825 [main] INFO QA Lead - >>>>user able to Enter Last Name<<<< 
+2023-04-18 22:56:56,109 [main] INFO QA Lead - >>>>user able to enter Company name<<<< 
+2023-04-18 22:56:56,268 [main] INFO QA Lead - >>>>user able to enter Address<<<< 
+2023-04-18 22:56:56,447 [main] INFO QA Lead - >>>>user able to select city<<<< 
+2023-04-18 22:56:56,612 [main] INFO QA Lead - >>>>user able to select state from dropdown<<<< 
+2023-04-18 22:56:57,616 [main] INFO QA Lead - >>>>user able to enter Zip Code <<<< 
+2023-04-18 22:56:57,771 [main] INFO QA Lead - >>>>user able to select country from dropdown<<<< 
+2023-04-18 22:57:03,236 [main] INFO QA Lead - >>>>user able to Enter Phone Number<<<< 
+2023-04-18 22:57:03,403 [main] INFO QA Lead - >>>>user able to click Ship Here Button<<<< 
+2023-04-18 22:57:03,579 [main] INFO QA Lead - >>>>user able to select shipping method radio button and click on next button <<<< 
+2023-04-18 22:57:06,765 [main] INFO QA Lead - >>>>user able to click on next button <<<< 
+2023-04-18 22:57:06,975 [main] INFO QA Lead - >>>>user able to Select Billing And Shipping address same ChkBox <<<< 
+2023-04-18 22:57:08,985 [main] INFO QA Lead - >>>>user able to click on the place order button <<<< 
+2023-04-18 22:57:09,046 [main] INFO QA Lead - >>>>user able to verify the confirmation message<<<< 
+2023-04-18 22:58:26,402 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:58:26,437 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:58:29,102 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:58:31,972 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:58:32,332 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:58:32,539 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:58:33,516 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:58:34,755 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:58:35,029 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:58:35,187 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:58:35,384 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:58:57,703 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 22:58:57,732 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 22:59:00,340 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 22:59:03,395 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 22:59:03,752 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:59:03,943 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 22:59:05,015 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 22:59:06,451 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 22:59:06,722 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 22:59:06,867 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 22:59:07,098 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 22:59:10,478 [main] INFO QA Lead - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-04-18 22:59:12,358 [main] INFO QA Lead - >>>>user able to add shipping information <<<< 
+2023-04-18 22:59:12,359 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 22:59:13,241 [main] INFO QA Lead - >>>>user able to Enter First Name<<<< 
+2023-04-18 22:59:13,820 [main] INFO QA Lead - >>>>user able to Enter Last Name<<<< 
+2023-04-18 22:59:14,036 [main] INFO QA Lead - >>>>user able to enter Company name<<<< 
+2023-04-18 22:59:14,225 [main] INFO QA Lead - >>>>user able to enter Address<<<< 
+2023-04-18 22:59:14,415 [main] INFO QA Lead - >>>>user able to select city<<<< 
+2023-04-18 22:59:14,570 [main] INFO QA Lead - >>>>user able to select state from dropdown<<<< 
+2023-04-18 22:59:15,506 [main] INFO QA Lead - >>>>user able to enter Zip Code <<<< 
+2023-04-18 22:59:15,667 [main] INFO QA Lead - >>>>user able to select country from dropdown<<<< 
+2023-04-18 22:59:19,685 [main] INFO QA Lead - >>>>user able to Enter Phone Number<<<< 
+2023-04-18 22:59:19,890 [main] INFO QA Lead - >>>>user able to click Ship Here Button<<<< 
+2023-04-18 22:59:20,067 [main] INFO QA Lead - >>>>user able to select shipping method radio button and click on next button <<<< 
+2023-04-18 22:59:23,200 [main] INFO QA Lead - >>>>user able to click on next button <<<< 
+2023-04-18 22:59:23,399 [main] INFO QA Lead - >>>>user able to Select Billing And Shipping address same ChkBox <<<< 
+2023-04-18 22:59:25,351 [main] INFO QA Lead - >>>>user able to click on the place order button <<<< 
+2023-04-18 22:59:25,426 [main] INFO QA Lead - >>>>user able to verify the confirmation message<<<< 
+2023-04-18 23:01:01,109 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 23:01:01,143 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 23:01:03,517 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 23:01:06,176 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 23:01:06,534 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 23:01:06,767 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 23:01:07,767 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 23:01:09,038 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 23:01:09,310 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 23:01:09,465 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 23:01:09,671 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 23:01:26,120 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 23:01:26,148 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 23:01:28,590 [main] INFO QA Lead - >>>>Automation start with chrome browser<<<< 
+2023-04-18 23:01:31,238 [main] INFO QA Lead - >>>>user able to select Men module<<<< 
+2023-04-18 23:01:31,608 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 23:01:31,830 [main] INFO QA Lead - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 23:01:32,892 [main] INFO QA Lead - >>>>user able to select a Jacket <<<< 
+2023-04-18 23:01:34,361 [main] INFO QA Lead - >>>>user able to select a Color <<<< 
+2023-04-18 23:01:34,635 [main] INFO QA Lead - >>>>user able to enter quantity <<<< 
+2023-04-18 23:01:34,781 [main] INFO QA Lead - >>>>user able to click add to cart button <<<< 
+2023-04-18 23:01:34,972 [main] INFO QA Lead - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 23:01:38,190 [main] INFO QA Lead - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-04-18 23:01:39,917 [main] INFO QA Lead - >>>>user able to add shipping information <<<< 
+2023-04-18 23:01:39,918 [main] INFO QA Lead - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 23:01:41,206 [main] INFO QA Lead - >>>>user able to Enter First Name<<<< 
+2023-04-18 23:01:41,779 [main] INFO QA Lead - >>>>user able to Enter Last Name<<<< 
+2023-04-18 23:01:42,016 [main] INFO QA Lead - >>>>user able to enter Company name<<<< 
+2023-04-18 23:01:42,198 [main] INFO QA Lead - >>>>user able to enter Address<<<< 
+2023-04-18 23:01:42,420 [main] INFO QA Lead - >>>>user able to select city<<<< 
+2023-04-18 23:01:42,585 [main] INFO QA Lead - >>>>user able to select state from dropdown<<<< 
+2023-04-18 23:01:43,586 [main] INFO QA Lead - >>>>user able to enter Zip Code <<<< 
+2023-04-18 23:01:43,747 [main] INFO QA Lead - >>>>user able to select country from dropdown<<<< 
+2023-04-18 23:01:47,868 [main] INFO QA Lead - >>>>user able to Enter Phone Number<<<< 
+2023-04-18 23:01:48,021 [main] INFO QA Lead - >>>>user able to click Ship Here Button<<<< 
+2023-04-18 23:01:48,203 [main] INFO QA Lead - >>>>user able to select shipping method radio button and click on next button <<<< 
+2023-04-18 23:01:51,199 [main] INFO QA Lead - >>>>user able to click on next button <<<< 
+2023-04-18 23:01:51,442 [main] INFO QA Lead - >>>>user able to Select Billing And Shipping address same ChkBox <<<< 
+2023-04-18 23:01:53,753 [main] INFO QA Lead - >>>>user able to click on the place order button <<<< 
+2023-04-18 23:01:53,818 [main] INFO QA Lead - >>>>user able to verify the confirmation message<<<< 
+2023-04-18 23:11:17,360 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-18 23:11:17,398 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-18 23:11:19,890 [main] INFO Automation Tester - >>>>Automation start with chrome browser<<<< 
+2023-04-18 23:11:22,816 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-04-18 23:11:23,171 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 23:11:23,358 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-18 23:11:24,420 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-04-18 23:11:25,867 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-04-18 23:11:26,109 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-04-18 23:11:26,247 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-04-18 23:11:26,449 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-18 23:11:30,125 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-04-18 23:11:31,993 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-04-18 23:11:31,994 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-04-18 23:11:32,830 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-04-18 23:11:33,416 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-04-18 23:11:33,634 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-04-18 23:11:33,813 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-04-18 23:11:34,008 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-04-18 23:11:34,192 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-04-18 23:11:35,194 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-04-18 23:11:35,358 [main] INFO Automation Tester - >>>>user able to select country from dropdown<<<< 
+2023-04-18 23:11:39,439 [main] INFO Automation Tester - >>>>user able to Enter Phone Number<<<< 
+2023-04-18 23:11:39,772 [main] INFO Automation Tester - >>>>user able to click Ship Here Button<<<< 
+2023-04-18 23:11:40,040 [main] INFO Automation Tester - >>>>user able to select shipping method radio button and click on next button <<<< 
+2023-04-18 23:11:43,762 [main] INFO Automation Tester - >>>>user able to click on next button <<<< 
+2023-04-18 23:11:43,962 [main] INFO Automation Tester - >>>>user able to Select Billing And Shipping address same ChkBox <<<< 
+2023-04-18 23:11:46,101 [main] INFO Automation Tester - >>>>user able to click on the place order button <<<< 
+2023-04-18 23:11:46,164 [main] INFO Automation Tester - >>>>user able to verify the confirmation message<<<< 
+2023-04-25 22:13:34,261 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 22:13:34,296 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 22:13:40,250 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-04-25 22:13:40,588 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-04-25 22:13:40,762 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-25 22:13:41,713 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-04-25 22:13:43,030 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-04-25 22:13:43,310 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-04-25 22:13:43,468 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-04-25 22:13:43,691 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-25 22:14:05,687 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 22:14:05,712 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 22:14:11,047 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-04-25 22:14:11,409 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-04-25 22:14:11,595 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-25 22:14:12,494 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-04-25 22:14:14,064 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-04-25 22:14:14,371 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-04-25 22:14:14,547 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-04-25 22:14:14,750 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-25 22:14:18,293 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-04-25 22:14:20,171 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-04-25 22:14:20,172 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-04-25 22:14:21,114 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-04-25 22:14:21,611 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-04-25 22:14:21,849 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-04-25 22:14:22,039 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-04-25 22:14:22,222 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-04-25 22:14:22,385 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-04-25 22:14:23,389 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-04-25 22:14:23,569 [main] INFO Automation Tester - >>>>user able to select country from dropdown<<<< 
+2023-04-25 22:14:27,557 [main] INFO Automation Tester - >>>>user able to Enter Phone Number<<<< 
+2023-04-25 22:14:27,721 [main] INFO Automation Tester - >>>>user able to click Ship Here Button<<<< 
+2023-04-25 22:14:27,903 [main] INFO Automation Tester - >>>>user able to select shipping method radio button and click on next button <<<< 
+2023-04-25 22:14:30,988 [main] INFO Automation Tester - >>>>user able to click on next button <<<< 
+2023-04-25 22:14:31,201 [main] INFO Automation Tester - >>>>user able to Select Billing And Shipping address same ChkBox <<<< 
+2023-04-25 22:14:33,050 [main] INFO Automation Tester - >>>>user able to click on the place order button <<<< 
+2023-04-25 22:14:33,111 [main] INFO Automation Tester - >>>>user able to verify the confirmation message<<<< 
+2023-04-26 14:07:40,281 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 14:07:40,313 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-26 14:07:46,542 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-04-26 14:07:46,955 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-04-26 14:07:47,141 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-26 14:07:48,038 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-04-26 14:07:49,289 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-04-26 14:07:49,565 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-04-26 14:07:49,717 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-04-26 14:07:49,931 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-26 14:08:12,103 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 14:08:12,131 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-26 14:08:17,278 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-04-26 14:08:17,617 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-04-26 14:08:17,803 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-26 14:08:18,823 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-04-26 14:08:20,303 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-04-26 14:08:20,598 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-04-26 14:08:20,764 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-04-26 14:08:20,977 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-26 14:08:24,150 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-04-26 14:08:25,871 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-04-26 14:08:25,873 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-04-26 14:08:26,689 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-04-26 14:08:27,232 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-04-26 14:08:27,461 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-04-26 14:08:27,605 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-04-26 14:08:27,775 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-04-26 14:08:27,944 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-04-26 14:08:28,835 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-04-26 14:08:28,979 [main] INFO Automation Tester - >>>>user able to select country from dropdown<<<< 
+2023-04-26 14:08:32,614 [main] INFO Automation Tester - >>>>user able to Enter Phone Number<<<< 
+2023-04-26 14:08:32,781 [main] INFO Automation Tester - >>>>user able to click Ship Here Button<<<< 
+2023-04-26 14:08:32,972 [main] INFO Automation Tester - >>>>user able to select shipping method radio button and click on next button <<<< 
+2023-04-26 14:08:35,754 [main] INFO Automation Tester - >>>>user able to click on next button <<<< 
+2023-04-26 14:08:35,998 [main] INFO Automation Tester - >>>>user able to Select Billing And Shipping address same ChkBox <<<< 
+2023-04-26 14:08:37,727 [main] INFO Automation Tester - >>>>user able to click on the place order button <<<< 
+2023-04-26 14:08:37,801 [main] INFO Automation Tester - >>>>user able to verify the confirmation message<<<< 
+2023-04-26 17:01:24,331 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 17:01:24,361 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-26 17:01:30,134 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-04-26 17:01:30,486 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-04-26 17:01:30,658 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-04-26 17:01:31,722 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-04-26 17:01:33,220 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-04-26 17:01:33,491 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-04-26 17:01:33,629 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-04-26 17:01:33,821 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-04-26 17:01:37,009 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-04-26 17:01:38,888 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-04-26 17:01:38,890 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-04-26 17:01:39,722 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-04-26 17:01:40,207 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-04-26 17:01:40,410 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-04-26 17:01:40,583 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-04-26 17:01:40,773 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-04-26 17:01:40,931 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-04-26 17:01:41,809 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-04-26 17:01:41,955 [main] INFO Automation Tester - >>>>user able to select country from dropdown<<<< 
+2023-04-26 17:01:45,605 [main] INFO Automation Tester - >>>>user able to Enter Phone Number<<<< 
+2023-04-26 17:01:45,783 [main] INFO Automation Tester - >>>>user able to click Ship Here Button<<<< 
+2023-04-26 17:01:45,954 [main] INFO Automation Tester - >>>>user able to select shipping method radio button and click on next button <<<< 
+2023-04-26 17:01:48,993 [main] INFO Automation Tester - >>>>user able to click on next button <<<< 
+2023-04-26 17:01:49,237 [main] INFO Automation Tester - >>>>user able to Select Billing And Shipping address same ChkBox <<<< 
+2023-04-26 17:01:50,986 [main] INFO Automation Tester - >>>>user able to click on the place order button <<<< 
+2023-04-26 17:01:51,043 [main] INFO Automation Tester - >>>>user able to verify the confirmation message<<<< 
+2023-05-01 21:31:14,823 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-05-01 21:31:14,863 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-05-01 21:31:21,692 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-01 21:31:22,092 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-01 21:31:22,277 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-01 21:31:23,434 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-01 21:31:26,217 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-01 21:31:26,511 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-01 21:31:26,682 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-01 21:31:26,879 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-01 21:31:30,662 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-01 21:31:32,634 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-01 21:31:32,640 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-01 21:31:34,147 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-01 21:31:34,871 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-05-01 21:31:35,107 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-05-01 21:31:35,290 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-05-01 21:31:35,501 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-05-01 21:31:35,684 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-05-01 21:31:36,675 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-05-01 21:31:36,851 [main] INFO Automation Tester - >>>>user able to select country from dropdown<<<< 
+2023-05-01 21:31:41,103 [main] INFO Automation Tester - >>>>user able to Enter Phone Number<<<< 
+2023-05-01 21:31:41,302 [main] INFO Automation Tester - >>>>user able to click Ship Here Button<<<< 
+2023-05-01 21:31:41,474 [main] INFO Automation Tester - >>>>user able to select shipping method radio button and click on next button <<<< 
+2023-05-01 21:31:44,715 [main] INFO Automation Tester - >>>>user able to click on next button <<<< 
+2023-05-01 21:31:44,934 [main] INFO Automation Tester - >>>>user able to Select Billing And Shipping address same ChkBox <<<< 
+2023-05-01 21:31:47,760 [main] INFO Automation Tester - >>>>user able to click on the place order button <<<< 
+2023-05-01 21:31:47,828 [main] INFO Automation Tester - >>>>user able to verify the confirmation message<<<< 
+2023-05-02 19:11:15,262 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.24 (resolved driver for Chrome 113)
+2023-05-02 19:11:15,303 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.24\chromedriver.exe
+2023-05-02 19:11:22,668 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-02 19:11:23,219 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-02 19:11:23,405 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-02 19:11:24,453 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-02 19:11:26,571 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-02 19:11:26,859 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-02 19:11:27,061 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-02 19:11:27,268 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-02 19:11:30,262 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-02 19:11:31,999 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-02 19:11:32,001 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-02 19:18:15,263 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.24 (resolved driver for Chrome 113)
+2023-05-02 19:18:15,308 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.24\chromedriver.exe
+2023-05-02 19:33:36,892 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.24 (resolved driver for Chrome 113)
+2023-05-02 19:33:36,920 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.24\chromedriver.exe
+2023-05-02 19:33:43,163 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-02 19:33:43,657 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-02 19:33:43,844 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-02 19:33:44,961 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-02 19:33:46,779 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-02 19:33:47,081 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-02 19:33:47,245 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-02 19:33:47,457 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-02 19:33:50,614 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-02 19:33:52,924 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-02 19:33:52,925 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-02 19:35:41,872 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.24 (resolved driver for Chrome 113)
+2023-05-02 19:35:41,925 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.24\chromedriver.exe
+2023-05-02 19:35:48,442 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-02 19:35:48,930 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-02 19:35:49,117 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-02 19:35:50,077 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-02 19:35:52,026 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-02 19:35:52,307 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-02 19:35:52,494 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-02 19:35:52,720 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-02 19:35:55,719 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-02 19:35:57,451 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-02 19:35:57,453 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-02 19:40:46,434 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.24 (resolved driver for Chrome 113)
+2023-05-02 19:40:46,466 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.24\chromedriver.exe
+2023-05-02 19:40:53,556 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-02 19:40:53,978 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-02 19:40:54,167 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-02 19:40:55,267 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-02 19:40:57,320 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-02 19:40:57,656 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-02 19:40:57,848 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-02 19:40:58,070 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-02 19:41:01,650 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-02 19:41:03,795 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-02 19:41:03,796 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-02 19:52:39,979 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.24 (resolved driver for Chrome 113)
+2023-05-02 19:52:40,029 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.24\chromedriver.exe
+2023-05-02 19:52:47,547 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-02 19:52:47,789 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-02 19:52:47,992 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-02 19:52:49,203 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-02 19:52:51,184 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-02 19:52:51,466 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-02 19:52:51,677 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-02 19:52:51,926 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-02 19:53:01,638 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-02 19:53:16,063 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-02 19:53:16,063 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-02 19:56:51,132 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.24 (resolved driver for Chrome 113)
+2023-05-02 19:56:51,160 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.24\chromedriver.exe
+2023-05-02 19:56:58,884 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-02 19:56:59,115 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-02 19:56:59,303 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-02 19:57:00,391 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-02 19:57:02,585 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-02 19:57:02,945 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-02 19:57:03,157 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-02 19:57:03,385 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-02 19:57:07,166 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-02 19:57:08,956 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-02 19:57:08,959 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-02 19:59:07,557 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.24 (resolved driver for Chrome 113)
+2023-05-02 19:59:07,599 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.24\chromedriver.exe
+2023-05-02 19:59:14,618 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-02 19:59:14,872 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-02 19:59:15,120 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-02 19:59:16,138 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-02 19:59:18,284 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-02 19:59:18,582 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-02 19:59:18,778 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-02 19:59:18,997 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-02 19:59:22,146 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-02 19:59:24,228 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-02 19:59:24,229 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 18:38:52,746 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-03 18:38:52,784 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2023-05-03 18:38:53,101 [main] INFO io.github.bonigarcia.wdm.online.Downloader - Downloading https://chromedriver.storage.googleapis.com/113.0.5672.63/chromedriver_win32.zip
+2023-05-03 18:38:53,384 [main] INFO io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver_win32.zip
+2023-05-03 18:38:53,536 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-03 18:39:00,436 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-03 18:39:00,679 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 18:39:00,865 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-03 18:39:01,867 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-03 18:39:03,530 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-03 18:39:03,774 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-03 18:39:03,944 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-03 18:39:04,144 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-03 18:39:07,257 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-03 18:39:09,105 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-03 18:39:09,106 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 21:17:41,038 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-03 21:17:41,104 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-03 21:18:36,764 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-03 21:18:36,790 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-03 21:19:39,425 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-03 21:19:39,457 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-03 21:19:46,330 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-03 21:19:46,600 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 21:19:46,805 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-03 21:19:47,857 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-03 21:19:49,784 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-03 21:19:50,083 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-03 21:19:50,272 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-03 21:19:50,509 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-03 21:19:53,899 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-03 21:19:56,132 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-03 21:19:56,132 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 21:37:11,863 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-03 21:37:11,894 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-03 21:37:19,344 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-03 21:37:19,625 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 21:37:19,858 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-03 21:37:20,903 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-03 21:37:22,756 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-03 21:37:23,078 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-03 21:37:23,277 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-03 21:37:23,503 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-03 21:37:26,540 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-03 21:37:28,804 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-03 21:37:28,805 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 21:45:05,600 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-03 21:45:05,630 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-03 21:45:12,640 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-03 21:45:12,886 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 21:45:13,087 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-03 21:45:14,209 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-03 21:45:15,971 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-03 21:45:16,281 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-03 21:45:16,503 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-03 21:45:16,712 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-03 21:45:20,202 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-03 21:45:22,437 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-03 21:45:22,438 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 21:46:45,861 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-03 21:46:45,890 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-03 21:46:52,083 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-03 21:46:52,519 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 21:46:52,707 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-03 21:46:53,791 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-03 21:46:55,550 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-03 21:46:55,871 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-03 21:46:56,202 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-03 21:46:56,471 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-03 21:48:40,746 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-03 21:48:40,792 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-03 21:48:47,497 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-03 21:48:47,949 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 21:48:48,150 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-03 21:48:49,241 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-03 21:48:51,366 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-03 21:48:51,615 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-03 21:48:51,812 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-03 21:48:52,049 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-03 21:48:55,298 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-03 21:48:57,144 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-03 21:48:57,145 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 21:51:38,104 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-03 21:51:38,138 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-03 21:51:44,832 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-03 21:51:45,076 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 21:51:45,279 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-03 21:51:46,311 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-03 21:51:48,027 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-03 21:51:48,346 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-03 21:51:48,541 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-03 21:51:48,759 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-03 21:51:52,046 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-03 21:51:54,079 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-03 21:51:54,082 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 21:55:51,823 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-03 21:55:51,858 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-03 21:55:58,701 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-03 21:55:58,971 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-03 21:55:59,189 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-03 21:56:00,269 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-03 21:56:02,968 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-03 21:56:03,215 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-03 21:56:03,430 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-03 21:56:03,660 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-04 20:19:23,794 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-04 20:19:23,827 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-04 20:19:31,378 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-04 20:19:31,679 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-04 20:19:31,866 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-04 20:19:32,795 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-04 20:19:36,700 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-04 20:19:36,914 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-04 20:19:37,115 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-04 20:19:37,324 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-07 05:45:22,924 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-07 05:45:22,982 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-07 05:45:29,749 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-07 05:45:30,009 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-07 05:45:30,211 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-07 05:45:31,233 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-07 05:45:33,628 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-07 05:45:33,850 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-07 05:45:34,048 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-07 05:45:34,262 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-07 05:46:45,205 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-07 05:46:45,233 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-07 05:46:51,197 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-07 05:46:51,464 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-07 05:46:51,679 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-07 05:46:52,731 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-07 05:46:55,181 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-07 05:46:55,425 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-07 05:46:55,621 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-07 05:46:55,867 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-07 05:49:10,167 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-07 05:49:10,197 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-07 05:49:16,582 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-07 05:49:16,795 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-07 05:49:17,001 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-07 05:49:18,028 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-07 05:49:20,411 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-07 05:49:20,625 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-07 05:49:20,795 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-07 05:49:21,021 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-09 18:31:22,789 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-09 18:31:22,828 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-09 18:32:32,138 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-09 18:32:32,194 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 19:08:09,541 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 19:08:09,586 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 19:08:20,073 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 19:08:20,331 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 19:08:20,518 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 19:08:21,763 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 19:08:24,381 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 19:08:24,624 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 19:08:24,832 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 19:08:25,069 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 19:11:06,914 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 19:11:06,944 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 19:11:16,070 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 19:11:16,311 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 19:11:16,497 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 19:11:17,763 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 19:11:21,110 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 19:11:21,313 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 19:11:21,510 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 19:11:21,756 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 19:11:25,150 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 19:11:27,457 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 19:11:27,458 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 19:49:49,141 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 19:49:49,165 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 19:49:57,780 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 19:49:58,007 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 19:49:58,210 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 19:49:59,320 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 19:50:02,380 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 19:50:02,590 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 19:50:02,764 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 19:50:02,995 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 19:50:06,776 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 19:50:08,915 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 19:50:08,915 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 19:52:56,170 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 19:52:56,212 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 19:53:05,476 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 19:53:05,731 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 19:53:05,933 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 19:53:07,272 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 19:53:11,002 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 19:53:11,236 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 19:53:11,432 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 19:53:11,716 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 19:53:16,164 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 19:53:17,935 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 19:53:17,936 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 21:05:29,737 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 21:05:29,764 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 21:05:38,866 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 21:05:39,077 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 21:05:39,280 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 21:05:40,492 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 21:05:43,577 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 21:05:43,792 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 21:05:43,963 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 21:05:44,187 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 21:05:47,325 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 21:05:49,169 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 21:05:49,171 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 21:17:52,680 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 21:17:52,707 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 21:18:01,031 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 21:18:01,241 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 21:18:01,456 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 21:18:02,378 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 21:18:05,373 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 21:18:05,590 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 21:18:05,749 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 21:18:05,981 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 21:18:09,634 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 21:18:11,585 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 21:18:11,585 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 21:18:13,088 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-05-16 21:18:13,347 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-05-16 21:18:13,490 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-05-16 21:18:13,685 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-05-16 21:18:13,869 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-05-16 21:18:14,637 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-05-16 21:22:18,509 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 21:22:18,543 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 21:22:26,605 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 21:22:26,830 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 21:22:27,033 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 21:22:28,113 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 21:22:31,146 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 21:22:31,362 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 21:22:31,526 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 21:22:31,755 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 21:22:35,103 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 21:22:37,136 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 21:22:37,136 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 21:22:38,518 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-05-16 21:22:38,770 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-05-16 21:22:38,967 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-05-16 21:22:39,167 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-05-16 21:22:39,338 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-05-16 21:22:39,450 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-05-16 21:31:44,562 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 21:31:44,594 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 21:31:53,645 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 21:31:53,879 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 21:31:54,079 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 21:31:55,299 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 21:31:58,112 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 21:31:58,303 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 21:31:58,480 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 21:31:58,708 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 21:32:03,206 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 21:32:05,487 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 21:32:05,489 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 21:32:07,147 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-05-16 21:32:07,386 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-05-16 21:32:07,557 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-05-16 21:32:07,755 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-05-16 21:32:07,915 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-05-16 21:32:08,021 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-05-16 21:32:08,189 [main] INFO Automation Tester - >>>>user able to select country from dropdown<<<< 
+2023-05-16 21:32:10,802 [main] INFO Automation Tester - >>>>user able to Enter Phone Number<<<< 
+2023-05-16 21:36:57,254 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 21:36:57,291 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 21:37:08,706 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 21:37:08,975 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 21:37:09,163 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 21:37:10,351 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 21:37:13,039 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 21:37:13,246 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 21:37:13,399 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 21:37:13,611 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 21:37:18,214 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 21:37:20,342 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 21:37:20,343 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 21:37:21,763 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-05-16 21:37:22,038 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-05-16 21:37:22,226 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-05-16 21:37:22,399 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-05-16 21:37:22,556 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-05-16 21:37:22,664 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-05-16 21:37:22,822 [main] INFO Automation Tester - >>>>user able to select country from dropdown<<<< 
+2023-05-16 21:37:25,398 [main] INFO Automation Tester - >>>>user able to Enter Phone Number<<<< 
+2023-05-16 21:37:25,594 [main] INFO Automation Tester - >>>>user able to click Ship Here Button<<<< 
+2023-05-16 21:44:46,452 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 21:44:46,492 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 21:44:54,939 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 21:44:55,163 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 21:44:55,381 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 21:44:56,482 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 21:44:59,314 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 21:44:59,507 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 21:44:59,667 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 21:44:59,900 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 21:45:04,841 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 21:45:07,276 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 21:45:07,276 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 21:45:08,743 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-05-16 21:45:08,995 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-05-16 21:45:09,169 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-05-16 21:45:09,361 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-05-16 21:45:09,518 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-05-16 21:45:09,640 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-05-16 21:45:09,829 [main] INFO Automation Tester - >>>>user able to select country from dropdown<<<< 
+2023-05-16 21:45:12,460 [main] INFO Automation Tester - >>>>user able to Enter Phone Number<<<< 
+2023-05-16 21:45:12,684 [main] INFO Automation Tester - >>>>user able to click Ship Here Button<<<< 
+2023-05-16 21:45:12,858 [main] INFO Automation Tester - >>>>user able to select shipping method radio button and click on next button <<<< 
+2023-05-16 21:45:13,042 [main] INFO Automation Tester - >>>>user able to click on next button <<<< 
+2023-05-16 21:45:13,231 [main] INFO Automation Tester - >>>>user able to Select Billing And Shipping address same ChkBox <<<< 
+2023-05-16 21:48:10,954 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 21:48:10,978 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 21:48:18,845 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 21:48:19,063 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 21:48:19,265 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 21:48:20,336 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 21:48:23,224 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 21:48:23,422 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 21:48:23,582 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 21:48:23,809 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 21:48:27,460 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 21:48:29,528 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 21:48:29,528 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 21:48:31,130 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-05-16 21:48:31,416 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-05-16 21:48:31,589 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-05-16 21:48:31,783 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-05-16 21:48:31,965 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-05-16 21:48:32,095 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-05-16 21:48:32,286 [main] INFO Automation Tester - >>>>user able to select country from dropdown<<<< 
+2023-05-16 21:48:34,730 [main] INFO Automation Tester - >>>>user able to Enter Phone Number<<<< 
+2023-05-16 21:48:34,936 [main] INFO Automation Tester - >>>>user able to click Ship Here Button<<<< 
+2023-05-16 21:49:27,074 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 21:49:27,098 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 21:49:35,022 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 21:49:35,238 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 21:49:35,426 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 21:49:36,418 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 21:49:39,328 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 21:49:39,526 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 21:49:39,683 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 21:49:39,905 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 21:49:43,042 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 21:49:45,083 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 21:49:45,084 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 21:49:46,459 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-05-16 21:49:46,680 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-05-16 21:49:46,910 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-05-16 21:49:47,108 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-05-16 21:49:47,285 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-05-16 21:49:47,396 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-05-16 21:49:47,569 [main] INFO Automation Tester - >>>>user able to select country from dropdown<<<< 
+2023-05-16 21:49:50,040 [main] INFO Automation Tester - >>>>user able to Enter Phone Number<<<< 
+2023-05-16 21:49:50,235 [main] INFO Automation Tester - >>>>user able to click Ship Here Button<<<< 
+2023-05-16 21:49:50,414 [main] INFO Automation Tester - >>>>user able to select shipping method radio button and click on next button <<<< 
+2023-05-16 21:49:50,585 [main] INFO Automation Tester - >>>>user able to click on next button <<<< 
+2023-05-16 21:49:50,784 [main] INFO Automation Tester - >>>>user able to click on the place order button <<<< 
+2023-05-16 21:49:52,236 [main] INFO Automation Tester - >>>>user able to verify the confirmation message<<<< 
+2023-05-16 21:50:47,991 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 21:50:48,019 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 21:50:55,613 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 21:50:55,833 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 21:50:56,067 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 21:50:57,119 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 21:51:00,136 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 21:51:00,336 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 21:51:00,509 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 21:51:00,746 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 21:51:03,575 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 21:51:05,580 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 21:51:05,580 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 21:52:07,475 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 21:52:07,501 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 21:52:15,249 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 21:52:15,466 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 21:52:15,683 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 21:52:16,821 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 21:52:19,504 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 21:52:19,701 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 21:52:19,875 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 21:52:20,109 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 21:52:23,194 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 21:52:25,363 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 21:52:25,363 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 21:52:51,523 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-05-16 21:52:51,719 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-05-16 21:52:51,860 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-05-16 21:52:52,041 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-05-16 21:52:52,223 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-05-16 21:52:52,347 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-05-16 21:52:52,504 [main] INFO Automation Tester - >>>>user able to select country from dropdown<<<< 
+2023-05-16 21:52:54,980 [main] INFO Automation Tester - >>>>user able to Enter Phone Number<<<< 
+2023-05-16 21:52:55,162 [main] INFO Automation Tester - >>>>user able to click Ship Here Button<<<< 
+2023-05-16 21:52:55,345 [main] INFO Automation Tester - >>>>user able to select shipping method radio button and click on next button <<<< 
+2023-05-16 21:52:55,546 [main] INFO Automation Tester - >>>>user able to click on next button <<<< 
+2023-05-16 21:52:55,765 [main] INFO Automation Tester - >>>>user able to click on the place order button <<<< 
+2023-05-16 21:54:04,068 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 21:54:04,101 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 21:54:12,183 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 21:54:12,403 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 21:54:12,636 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 21:54:13,615 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 21:54:16,523 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 21:54:16,732 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 21:54:16,895 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 21:54:17,124 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 21:54:20,173 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 21:54:22,101 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 21:54:22,102 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 21:56:14,990 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 21:56:15,020 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 21:56:22,819 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 21:56:23,041 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 21:56:23,242 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 21:56:24,169 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 21:56:27,137 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 21:56:27,356 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 21:56:27,528 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 21:56:27,758 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 21:56:31,069 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 21:56:32,795 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 21:56:32,795 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 22:01:18,821 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 22:01:18,848 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 22:01:26,670 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 22:01:26,887 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:01:27,106 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 22:01:28,125 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 22:01:30,933 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 22:01:31,147 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 22:01:31,333 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 22:01:31,568 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 22:03:32,915 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 22:03:32,945 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 22:03:40,686 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 22:03:40,907 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:03:41,158 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 22:03:42,080 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 22:03:44,911 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 22:03:45,131 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 22:03:45,302 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 22:03:45,517 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 22:03:48,986 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 22:03:51,126 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 22:03:51,128 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 22:11:15,728 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 22:11:15,750 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 22:11:23,403 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 22:11:23,638 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:11:23,858 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 22:11:25,050 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 22:11:27,658 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 22:11:27,859 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 22:11:28,023 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 22:11:28,254 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 22:11:31,396 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 22:11:33,416 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 22:11:33,418 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 22:14:27,331 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 22:14:27,356 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 22:14:35,422 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 22:14:35,675 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:15:23,196 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 22:15:23,219 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 22:15:31,147 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 22:15:31,368 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:15:31,600 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 22:15:32,621 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 22:15:35,559 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 22:15:35,754 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 22:15:35,906 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 22:15:36,133 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 22:15:39,886 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 22:15:42,136 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 22:15:42,137 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 22:17:13,279 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 22:17:13,316 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 22:17:21,194 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 22:17:21,427 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:17:21,629 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 22:17:22,634 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 22:17:25,681 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 22:17:25,890 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 22:17:26,053 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 22:17:26,278 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 22:17:29,899 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 22:17:32,042 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 22:17:32,043 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 22:19:15,731 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 22:19:15,764 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 22:19:23,502 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 22:19:23,726 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:19:23,962 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 22:19:25,064 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 22:19:27,932 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 22:19:28,133 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 22:19:28,297 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 22:19:28,509 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 22:19:32,087 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 22:19:34,286 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 22:19:34,287 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:19:35,412 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 22:21:23,012 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 22:21:23,043 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 22:21:30,627 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 22:21:30,857 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:21:31,058 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 22:21:32,080 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 22:21:34,970 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 22:21:35,171 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 22:21:35,346 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 22:21:35,573 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 22:21:38,664 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 22:21:40,540 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 22:21:40,541 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:21:41,626 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 22:21:42,198 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-05-16 22:28:09,410 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 22:28:09,437 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 22:28:17,106 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 22:28:17,339 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:28:17,527 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 22:28:18,541 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 22:28:21,458 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 22:28:21,660 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 22:28:21,810 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 22:28:22,039 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 22:28:25,295 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 22:28:27,313 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 22:28:27,313 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:28:28,296 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 22:28:29,009 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-05-16 22:28:29,296 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-05-16 22:28:29,453 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-05-16 22:28:29,642 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-05-16 22:28:29,835 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-05-16 22:28:29,956 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-05-16 22:28:30,094 [main] INFO Automation Tester - >>>>user able to select country from dropdown<<<< 
+2023-05-16 22:28:32,533 [main] INFO Automation Tester - >>>>user able to Enter Phone Number<<<< 
+2023-05-16 22:28:32,729 [main] INFO Automation Tester - >>>>user able to click Ship Here Button<<<< 
+2023-05-16 22:28:32,907 [main] INFO Automation Tester - >>>>user able to select shipping method radio button and click on next button <<<< 
+2023-05-16 22:28:33,126 [main] INFO Automation Tester - >>>>user able to click on next button <<<< 
+2023-05-16 22:28:33,395 [main] INFO Automation Tester - >>>>user able to click on the place order button <<<< 
+2023-05-16 22:35:52,957 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 22:35:52,993 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 22:36:00,835 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 22:36:01,070 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:36:01,260 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 22:36:02,354 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 22:36:05,258 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 22:36:05,469 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 22:36:05,624 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 22:36:05,856 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 22:36:08,941 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 22:36:10,983 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 22:36:10,984 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:36:12,027 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 22:36:12,693 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-05-16 22:36:12,999 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-05-16 22:36:13,164 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-05-16 22:36:13,361 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-05-16 22:36:13,525 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-05-16 22:36:13,635 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-05-16 22:36:13,807 [main] INFO Automation Tester - >>>>user able to select country from dropdown<<<< 
+2023-05-16 22:36:16,242 [main] INFO Automation Tester - >>>>user able to Enter Phone Number<<<< 
+2023-05-16 22:36:16,445 [main] INFO Automation Tester - >>>>user able to click Ship Here Button<<<< 
+2023-05-16 22:36:16,622 [main] INFO Automation Tester - >>>>user able to select shipping method radio button and click on next button <<<< 
+2023-05-16 22:36:16,805 [main] INFO Automation Tester - >>>>user able to click on next button <<<< 
+2023-05-16 22:36:17,088 [main] INFO Automation Tester - >>>>user able to click on the place order button <<<< 
+2023-05-16 22:37:26,701 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 22:37:26,728 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Fatema\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 22:37:34,316 [main] INFO Automation Tester - >>>>user able to select Men module<<<< 
+2023-05-16 22:37:34,531 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:37:34,731 [main] INFO Automation Tester - >>>>user able to click Jackets from   from Tops module<<<< 
+2023-05-16 22:37:35,925 [main] INFO Automation Tester - >>>>user able to select a Jacket <<<< 
+2023-05-16 22:37:38,653 [main] INFO Automation Tester - >>>>user able to select a Color <<<< 
+2023-05-16 22:37:38,850 [main] INFO Automation Tester - >>>>user able to enter quantity <<<< 
+2023-05-16 22:37:39,014 [main] INFO Automation Tester - >>>>user able to click add to cart button <<<< 
+2023-05-16 22:37:39,235 [main] INFO Automation Tester - >>>>user able to click on the shopping cart pop-up<<<< 
+2023-05-16 22:37:42,842 [main] INFO Automation Tester - >>>>user able to click on the proceed to checkout Button<<<< 
+2023-05-16 22:37:44,966 [main] INFO Automation Tester - >>>>user able to add shipping information <<<< 
+2023-05-16 22:37:44,967 [main] INFO Automation Tester - >>>>user able to select Tops from Men module<<<< 
+2023-05-16 22:37:46,128 [main] INFO Automation Tester - >>>>user able to Enter First Name<<<< 
+2023-05-16 22:37:46,799 [main] INFO Automation Tester - >>>>user able to Enter Last Name<<<< 
+2023-05-16 22:37:47,025 [main] INFO Automation Tester - >>>>user able to enter Company name<<<< 
+2023-05-16 22:37:47,214 [main] INFO Automation Tester - >>>>user able to enter Address<<<< 
+2023-05-16 22:37:47,411 [main] INFO Automation Tester - >>>>user able to select city<<<< 
+2023-05-16 22:37:47,574 [main] INFO Automation Tester - >>>>user able to select state from dropdown<<<< 
+2023-05-16 22:37:47,706 [main] INFO Automation Tester - >>>>user able to enter Zip Code <<<< 
+2023-05-16 22:37:47,887 [main] INFO Automation Tester - >>>>user able to select country from dropdown<<<< 
+2023-05-16 22:37:50,468 [main] INFO Automation Tester - >>>>user able to Enter Phone Number<<<< 
+2023-05-16 22:37:50,672 [main] INFO Automation Tester - >>>>user able to click Ship Here Button<<<< 
+2023-05-16 22:37:50,859 [main] INFO Automation Tester - >>>>user able to select shipping method radio button and click on next button <<<< 
+2023-05-16 22:37:51,101 [main] INFO Automation Tester - >>>>user able to click on next button <<<< 
+2023-05-16 22:37:51,312 [main] INFO Automation Tester - >>>>user able to click on the place order button <<<< 
+2023-05-16 22:37:53,229 [main] INFO Automation Tester - >>>>user able to verify the confirmation message<<<< 
